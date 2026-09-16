@@ -1,22 +1,34 @@
 # TheProjectDark
 
-> **Real name:** Vladlen
+> **Real name:** Vladlen  
+> ITA student & hobby programmer. Focused on low-level development and native desktop software.
 
-An ITA-Student and a hobby-programmer. I like programming low-level things and native desktop software.
+---
 
 ## Stack
 
-- C++
+- C++ (UI/low-level)
 - Java
-- some Python
-- some X86-64 GNU AS (AT&T and Intel syntaxis)
+- Python (basic / scripting)
+- x86-64 GNU Assembly (AT&T & Intel syntax)
+
+---
 
 ## Projects
 
-wEditor - a free and open-source text and code editor written on C++ with wxWidgets. It is designed to be a small, lightweight but full-fleedged tool for development.
+### wEditor
+Free and open-source text/code editor written in C++ with wxWidgets.  
+Lightweight, fast, and designed for practical everyday development.
 
-Demowinter/UnityKernel - a hybrid kernel written on C++ with inline GNU Assembly (AT&T syntaxis). This is an experimental kernel written in duo with my friend.
+### UnityKernel (Demowinter / UnityKernel)
+Experimental hybrid OS kernel written in C++ with inline GNU Assembly.  
+Developed together with a friend as a low-level systems programming project.
 
-CopyCleaner - small Java utility to clean copied from Internet text from unwanted symbols, links, etc.
+### CopyCleaner
+Small Java tool that cleans copied text from the internet (removes links, formatting, unwanted symbols).
 
-pNotes - small, experimental text editor written on Python with TKinter. It is made to test development with TKinter. 
+### pNotes
+Experimental Python text editor using Tkinter.  
+Built for learning GUI development in Python.
+
+---
