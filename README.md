@@ -24,6 +24,17 @@ Lightweight, fast, and designed for practical everyday development.
 Experimental hybrid OS kernel written in C++ with inline GNU Assembly.  
 Developed together with a friend as a low-level systems programming project.
 
+### wStresser
+Experimental cross-platform system testing tool written in C++. It is having currently:
+- Stress testing RAM by leaking memory
+- Vulkan graphics test
+
+Planed in nearly future:
+- OpenGL tests
+- Extreme graphics testing modes
+- System info
+- other tests
+
 ### CopyCleaner
 Small Java tool that cleans copied text from the internet (removes links, formatting, unwanted symbols).
 
