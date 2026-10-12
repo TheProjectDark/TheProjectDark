@@ -7,7 +7,7 @@
 
 ## Stack
 
-- C++ (UI/low-level)
+- C/C++ (UI/low-level)
 - Java
 - Python (basic / scripting)
 - x86-64 GNU Assembly (AT&T & Intel syntax)
