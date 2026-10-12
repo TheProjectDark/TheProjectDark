@@ -35,6 +35,12 @@ Planed in nearly future:
 - System info
 - other tests
 
+### FileStruct
+A program, that lets you structure and organize your files and directories. Written in Java with JavaFX.
+
+### RawReader
+A program, that lets you read raw data directly from mass storage device, even if OS can't see it.
+
 ### CopyCleaner
 Small Java tool that cleans copied text from the internet (removes links, formatting, unwanted symbols).
 
